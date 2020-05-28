@@ -15,15 +15,6 @@ Made for educational purposes. I hope it will help!
 ## How to Run
 
 **Care not to do any damage! Backup your server files before running ransomware!**
-
-Copy ['\\src\\encrypt.php'](https://github.com/ivan-sincek/php-ransomware/blob/master/src/encrypt.php) to your server's web root directory (e.g. to '\\xampp\\htdocs\\' on XAMPP).
-
-Navigate to the encryption file with your preferred web browser.
-
-Decryption file will be created automaticly after the encryption phase.
-
-## Images
-
 ![Ransomware](https://github.com/ivan-sincek/php-ransomware/blob/master/img/ransomware.jpg)
 
 ![Encrypted](https://github.com/ivan-sincek/php-ransomware/blob/master/img/encrypted.jpg)
